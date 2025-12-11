@@ -1,0 +1,3 @@
+[submodule "godot-steamaudio-dotnet"]
+	path = godot-steamaudio-dotnet
+	url = https://github.com/JamDoggie/godot-steamaudio-dotnet.git
